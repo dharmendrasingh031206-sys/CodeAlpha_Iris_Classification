@@ -24,3 +24,14 @@ The model achieved 100% accuracy on the test dataset.
 - Model Training
 - Prediction
 - Model Evaluation
+
+## Results
+
+The Logistic Regression model achieved high accuracy in classifying Iris flower species.
+
+The model successfully classified:
+- Iris Setosa
+- Iris Versicolor
+- Iris Virginica
+
+This project demonstrates the use of machine learning for multi-class classification problems.
